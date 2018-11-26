@@ -1,0 +1,11 @@
+{
+  "name": "Ficker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node": "10.13.0",
+    "lodash": "^4.17.11",
+    "puppeteer": "^1.10.0"
+  }
+}
